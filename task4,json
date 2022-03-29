@@ -1,0 +1,27 @@
+{
+    "Name": "Toy Story 4",
+    "Rating": "G",
+    "Genre": [
+        "Fantasy",
+        "Animation",
+        "Adventure",
+        "Kids&family",
+        "Comedy"
+    ],
+    "Language": [
+        "English"
+    ],
+    "Drector": [
+        "JoshCooley"
+    ],
+    "Producer": [
+        "MarkNielsen",
+        "JonasRivera",
+        "GalynSusman"
+    ],
+    "Writer": [
+        "AndrewStanton",
+        "StephanyFolsom"
+    ],
+    "Runtime": 100
+}
